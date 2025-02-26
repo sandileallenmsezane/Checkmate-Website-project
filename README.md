@@ -7,7 +7,7 @@ This is a dummy **bakery e-commerce website** built using **ASP.NET Web Forms, C
 - 🛒 **Shopping Cart & Checkout**
 - 📜 **Order History & Order Details**
 - 📊 **Admin Dashboard** (Clients, Inventory Management, Reports)
-- 📈 **Power BI Reports** (Sales Data, Busiest Day of the week report, Inventory Report...)
+- 📈 **Power BI Reports** (Sales Data, BestSelling, Inventory Report...)
 
 
 
