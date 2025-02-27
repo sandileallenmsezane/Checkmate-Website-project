@@ -1,6 +1,6 @@
 # 🍞 Bakery E-Commerce Website
 
-This is a dummy **bakery e-commerce website** built using **ASP.NET Web Forms, C#, and SQL Server**. Users can browse products, place orders, and track their purchase history. Admins can manage customers, inventory, and reports.
+This is a dummy **bakery e-commerce website** pages for the website built using **ASP.NET Web Forms, C#, and SQL Server**. Users can browse products, place orders, and track their purchase history. Admins can manage customers, inventory, and reports.
 
 ## Features
 - 🔐 **User Authentication** (Register, Login, Forgot Password)
