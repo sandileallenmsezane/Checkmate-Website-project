@@ -18,3 +18,14 @@ This is a dummy **bakery e-commerce website** built using **ASP.NET Web Forms, C
 - **Version Control:** Git & GitHub
 
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+
+
+### 🛒 Shopping Cart
+
+
+### 📊 Admin Dashboard
+
+
