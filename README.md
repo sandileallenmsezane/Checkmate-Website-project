@@ -20,12 +20,16 @@ This is a dummy **bakery e-commerce website** built using **ASP.NET Web Forms, C
 
 ## 📸 Screenshots
 
+### Login and Sign up pages
+![Login](images/LoginPage.jpg)
+![Register](images/RegisterPage.jpg)
+
 ### 🏠 Homepage
 ![Homepage](images/LandingPage.jpg)
 
 ### 🛒 Shopping Cart
+![Shopping Cart](images/CartPage.jpg)
 
-
-### 📊 Admin Dashboard
-
+### 📊 Product Page
+![Shopping](images/ShoppingPage1.jpg)
 
